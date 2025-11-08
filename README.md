@@ -62,6 +62,7 @@ Page 3: Bowling Analysis
 
 
 
-
+The dataset has been compressed for upload due to GitHub’s 25 MB file limit.  
+Extract `IPL_Final_2008_2025.zip and Master` to get the CSV files.
 
 
